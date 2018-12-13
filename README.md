@@ -1,9 +1,9 @@
 
 # docker-electrumx
 
-[![Build Status](https://travis-ci.org/lukechilds/docker-electrumx.svg?branch=master)](https://travis-ci.org/lukechilds/docker-electrumx)
-[![Image Layers](https://images.microbadger.com/badges/image/lukechilds/electrumx.svg)](https://microbadger.com/images/lukechilds/electrumx)
-[![Docker Pulls](https://img.shields.io/docker/pulls/lukechilds/electrumx.svg)](https://hub.docker.com/r/lukechilds/electrumx/)
+[![Build Status](https://travis-ci.org/mschmoock/docker-electrumx.svg?branch=master)](https://travis-ci.org/mschmoock/docker-electrumx)
+[![Image Layers](https://images.microbadger.com/badges/image/mschmoock/electrumx.svg)](https://microbadger.com/images/mschmoock/electrumx)
+[![Docker Pulls](https://img.shields.io/docker/pulls/mschmoock/electrumx.svg)](https://hub.docker.com/r/mschmoock/electrumx/)
 
 > Run an Electrum server with one command
 
