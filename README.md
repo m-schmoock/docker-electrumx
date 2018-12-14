@@ -1,7 +1,7 @@
 
 # docker-electrumx
 
-[![Build Status](https://travis-ci.org/mschmoock/docker-electrumx.svg?branch=master)](https://travis-ci.org/mschmoock/docker-electrumx)
+[![Build Status](https://travis-ci.org/m-schmoock/docker-electrumx.svg?branch=master)](https://travis-ci.org/m-schmoock/docker-electrumx)
 [![Image Layers](https://images.microbadger.com/badges/image/mschmoock/electrumx:latest.svg)](https://microbadger.com/images/mschmoock/electrumx:latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/mschmoock/electrumx.svg)](https://hub.docker.com/r/mschmoock/electrumx/)
 
