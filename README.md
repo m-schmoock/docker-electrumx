@@ -5,7 +5,8 @@
 [![Image Layers](https://images.microbadger.com/badges/image/mschmoock/electrumx:latest.svg)](https://microbadger.com/images/mschmoock/electrumx:latest)
 [![Docker Pulls](https://img.shields.io/docker/pulls/mschmoock/electrumx.svg)](https://hub.docker.com/r/mschmoock/electrumx/)
 
-> Run an Electrum server with one command. Updated electrumx version >1.4 of lukechilds/electrumx.
+> Run an Electrum server with one command.
+> Updated electrumx versions >1.4 of lukechilds/electrumx docker container.
 
 
 An easily configurable Docker image for running an Electrum server.
