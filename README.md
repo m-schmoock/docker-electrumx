@@ -26,7 +26,7 @@ If there's an SSL certificate/key (`electrumx.crt`/`electrumx.key`) in the `/dat
 
 You can view all ElectrumX environment variables here: https://github.com/kyuupichan/electrumx/blob/master/docs/environment.rst
 
-The envrironment variable `COIN` defaults to `BitcoinSegwit`, so it is not required to specify it unless you want to use this for some other ShitCoin. Values can be found here: `https://github.com/kyuupichan/electrumx/blob/master/electrumx/lib/coins.py`.
+The envrironment variable `COIN` defaults to `BitcoinSegwit`, so it is not required to specify it unless you want to use this for some ShitCoin. All values can be found here: https://github.com/kyuupichan/electrumx/blob/master/electrumx/lib/coins.py .
 
 ### TCP Port
 
