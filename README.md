@@ -41,7 +41,7 @@ docker run \
   -v /home/username/electrumx:/data \
   -e DAEMON_URL=http://user:pass@host:port \
   -p 50002:50002 \
-  mschmoock/electrumx:v1.2.1
+  mschmoock/electrumx:v1.7
 ```
 
 ## License
